@@ -48,3 +48,10 @@ Through this project, I practiced:
 ## Note
 
 The machine learning model was trained using ML4K. This project was created as part of my introductory AI learning experience.
+
+## Model Availability
+
+The model was trained using Machine Learning for Kids.
+Screenshots documenting data collection, training, and testing are included in this repository.
+
+The original ML4K project file is not currently available.
